@@ -1,6 +1,6 @@
 # tools
 
-just for fun
+just for fun in a scenario when you use a linux live cd
 
 Install non-free flash plugin
 
