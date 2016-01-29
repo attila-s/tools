@@ -1,5 +1,7 @@
 # tools
 
+just for fun
+
 Install non-free flash plugin
 
 ```bash
